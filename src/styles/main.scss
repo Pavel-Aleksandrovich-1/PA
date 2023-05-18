@@ -782,6 +782,13 @@ img {
 		background-size: contain;
 		z-index: 0;
 	}
+	&__short {
+		background-image: url(../images/short.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		z-index: 0;
+	}
 
 	&__block {
 		display: flex;
