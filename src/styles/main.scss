@@ -796,6 +796,13 @@ img {
 		background-size: contain;
 		z-index: 0;
 	}
+	&__ts {
+		background-image: url(../images/Ts.png);
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: contain;
+		z-index: 0;
+	}
 
 	&__block {
 		display: flex;
